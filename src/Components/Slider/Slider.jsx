@@ -1,5 +1,6 @@
 import React from 'react';
 import './Slider.css';
+import '../Responsive/Responsive.css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 
@@ -12,7 +13,8 @@ function Slider(){
     {id: '1', image: '../../images/pokedex.PNG'},
     {id: '1', image: '../../images/projeto-rocketseat.PNG'},
     {id: '1', image: '../../images/cronometro.PNG'},
-    {id: '1', image: '../../images/calculadora.PNG'}
+    {id: '1', image: '../../images/calculadora.PNG'},
+    {id: '1', image: '../../images/e-commerce.PNG'}
   ];
 
   return(
