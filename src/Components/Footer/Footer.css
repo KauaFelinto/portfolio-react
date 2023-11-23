@@ -1,0 +1,30 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1.5rem 9%;
+  color: var(--main-color);
+}
+
+.footer-text p {
+  font-size: 1.5rem;
+}
+
+.footer-iconTop a {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: var(--main-color);
+  color: #17181a;
+}
+.footer-iconTop a:hover{
+  background-color: var(--bg-color);
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+  transition: .2s;
+}
