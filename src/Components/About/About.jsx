@@ -8,7 +8,6 @@ function About(){
 
       <div className="about-img">
         <img src="../../images/me-port.jpg" alt="perfil"/>
-        <span className="circle-spin"></span>
       </div>
 
       <div className="about-content">

@@ -5,20 +5,17 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  color:  var(--text-color);
 }
 
-body{
-  background-color: var(--color-bl);
-  color: var(--color-wt);
+body {
+  background: rgb(2,0,28);
+  background: var(--bg-color);
+  transition: 2.2s;
 }
 
 :root{
-  --color-bl: #272727;
-  --color-wt: #d1d1d1;
-  --main-color: #5CACC1;
-}
-
-section {
-  min-height: 100vh;
-  padding: 10rem 9% 2rem;
+  --bg-color: linear-gradient(188deg, rgba(2,0,28,1) 0%, rgba(126,166,221,1) 55%, rgba(2,0,28,1) 100%);
+  --text-color: white;
+  --main-color: #00c8ff;
 }
