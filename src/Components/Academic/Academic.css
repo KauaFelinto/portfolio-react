@@ -5,16 +5,9 @@
 }
 
 .education-row .education-column{
-  flex: 1 1 40rem;
-}
-
-.education-column .title{
-  font-size: 2.5rem;
-  margin: 0 0 1.5rem 2rem;
-}
-
-.education-column .education-box{
-  border-left: .2rem solid var(--main-color);
+  margin: 20px;
+  column-count: 2;
+  column-gap: 1;
 }
 
 .education-box .education-content{

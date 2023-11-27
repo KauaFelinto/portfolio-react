@@ -13,7 +13,7 @@ function About(){
       <div className="about-content">
         <h3>Frontend Developer!</h3>
         <p>Sou um jovem apaixonado por tecnologia com um forte interesse em desenvolvimento web. Estou ansioso para iniciar minha carreira e contribuir para projetos. Tenho habilidades em HTML, CSS e JavaScript, e Angular. Minha dedicação à usabilidade e design centrado no usuário me motiva a criar experiências web incríveis. Estou à procura da minha primeira oportunidade para aplicar meu conhecimento e paixão para desenvolvimento Front-end.</p>
-      </div>
+      </div> 
     </section>
   );
 } 

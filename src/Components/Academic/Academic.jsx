@@ -8,7 +8,6 @@ function Academic(){
 
       <div className="education-row">
         <div className="education-column">
-          <h3 className="title">Educação</h3>
 
           <div className="education-box">
             <div className="education-content">

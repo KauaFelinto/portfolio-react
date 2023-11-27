@@ -34,6 +34,7 @@ span {
 }
 
 .about-content {
+  width: 70%;
   text-align: center;
 }
 .about-content h3 {
@@ -41,5 +42,5 @@ span {
 }
 .about-content p {
   font-size: 1.6rem;
-  margin: 2rem 0 3 rem;
+  margin: 2rem 0 3rem;
 }
